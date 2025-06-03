@@ -1,2 +1,3 @@
-# Technical-Writing
-Detail-oriented Technical Writer specializing in software and end-user documentation, with expertise in API docs, Agile processes, and XML-based authoring. Committed to delivering high-quality content that enhances user experience and aligns with business goals.
+Hi there
+
+I hope you are doing well. This is a compilation of essential links I have encountered as a writer. I hope this helps you too.
