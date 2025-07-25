@@ -1,0 +1,19 @@
+# Introduction
+
+Welcome to the KanTime API Reference!
+
+KanTime API Reference provides you with an interactive environment to learn and test all the APIs in the KanTime Cloud. KanTime Cloud is a secure, distributed, and scalable platform exposing RESTful APIs for developers. The platform includes the following services:
+
+* Authorization Services
+* Schedule Services
+* Payroll Services
+* Billing Services
+* Hospice Services
+## Intended Audience
+This API Reference is intended for developers of web portals or mobile applications familiar with software using RESTful services over HTTPS. Users should also be familiar with the KanTime Platform interaction with devices and users.
+
+***
+
+What's Next
+
+[Account and Authentication](https://github.com/rajaramanapi/kantime/wiki/Account-and-Authentication)
